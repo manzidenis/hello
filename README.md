@@ -1,5 +1,5 @@
-# Simple-Flutter-Calculator
-This project demonstrates the use of Flutter for creating a basic yet functional calculator, showcasing UI design, state management, and arithmetic operations.
+# Simple-Flutter-App
+This project demonstrates the use of Flutter for creating signIn, signOut and calculator showcasing UI design, state management, and arithmetic operations for the calculator. Ideal for learning and exploring Flutter development.
 
 ## Features
 * Functional Calculator
