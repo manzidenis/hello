@@ -14,10 +14,12 @@ class _CalculatorScreenState extends State<CalculatorScreen> {
   String operand = ""; // hold operands - + / *
   String number2 = ""; // hold . 0-9 values
 
+  final Color backgroundColor = Colors.black;
   @override
   Widget build(BuildContext context) {
     final screenSize = MediaQuery.of(context).size;
     return Scaffold(
+      backgroundColor: backgroundColor,
       body: SafeArea(
         bottom: false,
         child: Column(
@@ -36,6 +38,7 @@ class _CalculatorScreenState extends State<CalculatorScreen> {
                     style: const TextStyle(
                       fontSize: 48,
                       fontWeight: FontWeight.bold,
+                      color: Colors.white,
                     ),
                     textAlign: TextAlign.end,
                   ),
@@ -82,6 +85,7 @@ class _CalculatorScreenState extends State<CalculatorScreen> {
               style: const TextStyle(
                 fontWeight: FontWeight.bold,
                 fontSize: 30,
+                color: Colors.white,
               ),
             ),
           ),
@@ -222,7 +226,7 @@ class _CalculatorScreenState extends State<CalculatorScreen> {
             Btn.divide,
             Btn.calculate
           ].contains(value)
-            ? Colors.orange
+            ? Colors.green
             : Colors.black87;
   }
 }
