@@ -1,12 +1,10 @@
-# Simple-Flutter-Calculator
-This project demonstrates the use of Flutter for creating a basic yet functional calculator, showcasing UI design, state management, and arithmetic operations.
+# Simple-Flutter-App
+This project demonstrates the use of Flutter for creating a signIn page, signOut page and a calculator screen, showcasing UI design, state management, and arithmetic operations for the calculator. Ideal for learning and exploring Flutter development.
 
 ## Features
-* Basic arithmetic operations: addition, subtraction, multiplication, and division.
-* Clear and delete functionality.
-* Percentage calculation.
-* Responsive design.
-
+* Functional Calculator
+* Sign In - UI
+* Sign Out - UI
 ## Getting started
 ### Prerequisites
 * Flutter SDK
