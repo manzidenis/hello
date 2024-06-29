@@ -61,6 +61,14 @@ class SignUp extends StatelessWidget {
                   border: OutlineInputBorder(),
                 ),
               ),
+              SizedBox(height: 16.0),
+              TextField(
+                obscureText: true,
+                decoration: InputDecoration(
+                  labelText: 'Confirm Password',
+                  border: OutlineInputBorder(),
+                ),
+              ),
               // SizedBox(height: 16.0),
               // TextField(
               //   obscureText: true,
