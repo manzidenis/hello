@@ -6,11 +6,17 @@ This project demonstrates the use of Flutter for creating a signIn page, signOut
 * Sign In - UI
 * Sign Out - UI
   # SCREENSHOTS
-  ![home-UI](https://github.com/manzidenis/hello/assets/108127297/3bd7f9d1-dea6-4bae-9ec6-d99d185dd3ac)
-  ![nav-menu](https://github.com/manzidenis/hello/assets/108127297/0db98b79-fe47-4907-b996-f06cc8184689)
-  ![signIn-UI](https://github.com/manzidenis/hello/assets/108127297/0cc214b6-8ef1-4c45-8f20-5a7eb332c220)
-  ![signUp-UI](https://github.com/manzidenis/hello/assets/108127297/d8ebdef3-d1a1-46eb-847d-06c34e64f747)
-  ![calculator-UI](https://github.com/manzidenis/hello/assets/108127297/86f530d6-9bc9-4238-9761-6a3d62a48493)
+![Screenshot (45)](https://github.com/manzidenis/hello/assets/108127297/e287e946-4591-44bb-b4e6-772bcc4587b3)
+![Screenshot (49)](https://github.com/manzidenis/hello/assets/108127297/9eec08bd-c5b7-46e2-a767-35b7ab442d45)
+![Screenshot (46)](https://github.com/manzidenis/hello/assets/108127297/44dc1b2a-5aa9-4db8-bc61-ed2cb5553dfb)
+![Screenshot (47)](https://github.com/manzidenis/hello/assets/108127297/c82673d6-11d7-4e5f-a3fc-5ed18
+![Screenshot (48)](https://github.com/manzidenis/hello/assets/108127297/2b79cb18-89f9-41ee-a464-a7cdb1c355b5)
+aec7101)
+  # darkMode
+![Screenshot (51)](https://github.com/manzidenis/hello/assets/108127297/af3359ca-2c7e-489e-9f86-78991fd06030)
+![Screenshot (52)](https://github.com/manzidenis/hello/assets/108127297/560a0506-498a-4223-9d88-e484b8903b9e)
+![Screenshot (50)](https://github.com/manzidenis/hello/assets/108127297/add34c54-9f0b-47e5-92bd-81474e95e63c)
+
 
 
 ## Getting started
