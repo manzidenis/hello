@@ -6,6 +6,8 @@ This project demonstrates the use of Flutter for creating a signIn page, signOut
 * Sign In - UI
 * Sign Out - UI
   # SCREENSHOTS
+  
+  ##### lightMode
 ![Screenshot (45)](https://github.com/manzidenis/hello/assets/108127297/e287e946-4591-44bb-b4e6-772bcc4587b3)
 ![Screenshot (49)](https://github.com/manzidenis/hello/assets/108127297/9eec08bd-c5b7-46e2-a767-35b7ab442d45)
 ![Screenshot (46)](https://github.com/manzidenis/hello/assets/108127297/44dc1b2a-5aa9-4db8-bc61-ed2cb5553dfb)
