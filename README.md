@@ -8,7 +8,6 @@ This project demonstrates the use of Flutter for creating a signIn page, signOut
   # SCREENSHOTS
 ![Screenshot (45)](https://github.com/manzidenis/hello/assets/108127297/e287e946-4591-44bb-b4e6-772bcc4587b3)
 ![Screenshot (49)](https://github.com/manzidenis/hello/assets/108127297/9eec08bd-c5b7-46e2-a767-35b7ab442d45)
-![Screenshot (47)](https://github.com/manzidenis/hello/assets/108127297/63ab9aae-8182-49d7-a475-bf63d20af2e5)
 ![Screenshot (46)](https://github.com/manzidenis/hello/assets/108127297/44dc1b2a-5aa9-4db8-bc61-ed2cb5553dfb)
 ![Screenshot (47)](https://github.com/manzidenis/hello/assets/108127297/c82673d6-11d7-4e5f-a3fc-5ed18aec7101)
 ![Screenshot (48)](https://github.com/manzidenis/hello/assets/108127297/2b79cb18-89f9-41ee-a464-a7cdb1c355b5)
